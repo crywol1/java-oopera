@@ -2,9 +2,9 @@ import java.util.ArrayList;
 
 public class Show {
 
-    private String title;
-    private int duration;
-    private Director director;
+    protected String title;
+    protected int duration;
+    protected Director director;
     protected ArrayList<Actor> listOfActors;
 
 
